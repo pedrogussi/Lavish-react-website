@@ -1,3 +1,11 @@
+#This project was made by @pedrogussi, based on the project from 
+@BrianDesign, and it can be found on (https://www.youtube.com/watch?v=3nLTB_E6XAM). 
+
+.....
+
+See more code in my personal GitHub.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
